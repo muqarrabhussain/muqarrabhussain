@@ -23,5 +23,4 @@ He/Him
 
 ## ⚡ Fun fact...
 I can sing Eastern music, especially Ghazals! 🎶 It's one of my hidden talents that I really enjoy practicing whenever I get the chance.
-.
--->
+
