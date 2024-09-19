@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Chaudhary Muqarrab Hussain!
 
-## 🔭 I’m currently working on...
-I’m an IT Business Analyst focused on creating systematic solutions that drive efficiency in organizations. My role is all about bridging the gap between business needs and IT solutions.
-
 ## 🌱 I’m currently learning...
 I'm diving deep into Agile methodologies and enhancing my skills in planning and executing projects with flexibility and speed.
 
